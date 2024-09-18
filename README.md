@@ -68,3 +68,11 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
   </a>
   </kbd>
 </p>
+
+### Website after colour change
+<p align="center"> 
+  <kbd>
+    <a href="https://prarthonapaul.github.io/" target="_blank"><img src="assets/img/preview-after-colour-change.png">
+  </a>
+  </kbd>
+</p>
