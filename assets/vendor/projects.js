@@ -37,10 +37,23 @@ const projects = [
         liveLink: "https://docs.wildfly.org/33/Admin_Guide.html#sending-a-request-object-as-a-jwt",
         githubLink: "https://github.com/wildfly/wildfly/pull/17219", 
         date: "2024-06-30"
+    }, 
+    {
+        title: "JWT Requests new",
+        image: "/assets/img/project-quizup-logo-1.png",
+        description: "A feature to send request objects as JWTs when securing an application with OIDC.",
+        accomplishments: [
+            "Added a feature to WildFly and WildFly-Elytron to send request objects as a Json Web Token when securing a WildFly application with OpenID connect (OIDC).",
+            "Allow users to sign and encrypt request objects using various algorithms supported by the OIDC provider.",
+            "Allow users to use symmetric and asymmetric algorithms and add corresponding key pairs as needed."
+        ],
+        liveLink: "https://docs.wildfly.org/33/Admin_Guide.html#sending-a-request-object-as-a-jwt",
+        githubLink: "https://github.com/wildfly/wildfly/pull/17219", 
+        date: "2024-09-19"
     }
 ];
 
-let currentProjectIndex = 0; // To track the current index of displayed projects
+let currentProjectIndex = 0; 
 // Sort projects by date (most recent first)
 projects.sort((a, b) => new Date(b.date) - new Date(a.date));
 
