@@ -77,6 +77,14 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
   </kbd>
 </p>
 
+### Website With Places Travelled
+<p align="center"> 
+  <kbd>
+    <a href="https://prarthonapaul.github.io/#places" target="_blank"><img src="assets/img/places.png">
+  </a>
+  </kbd>
+</p>
+
 ### Dynamic projects section 
 <p align="center"> 
   <kbd>
