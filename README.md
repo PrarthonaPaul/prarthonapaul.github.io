@@ -76,3 +76,11 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
   </a>
   </kbd>
 </p>
+
+### Dynamic projects section 
+<p align="center"> 
+  <kbd>
+    <a href="https://prarthonapaul.github.io/#projects" target="_blank"><img src="assets/img/dynamic-project.png">
+  </a>
+  </kbd>
+</p>
